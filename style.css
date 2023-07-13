@@ -115,4 +115,6 @@ nav li {
     border-radius: 1em;
     padding: 50px 100px;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
 }
