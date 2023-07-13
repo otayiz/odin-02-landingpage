@@ -108,3 +108,11 @@ nav li {
     font-weight: bold;
     font-style: normal;
 } 
+
+.cta {
+    background: #3882F6;
+    margin: 100px;
+    border-radius: 1em;
+    padding: 50px 100px;
+    color: #F9FAF8;
+}
