@@ -130,3 +130,10 @@ nav li {
     font-size: 18px;
     font-weight: bold;
 }
+
+footer {
+    background: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 50px;
+}
