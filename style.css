@@ -57,3 +57,10 @@ nav li {
     border: 0;
     padding: .5em;
 }
+
+.heropic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: gray;
+}
