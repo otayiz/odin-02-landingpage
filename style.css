@@ -16,4 +16,10 @@ nav {
 
 nav li {
     list-style: none;
+    padding: 12px;
+}
+
+.rightmenu ul {
+    display: flex;
+    flex-direction: row;
 }
