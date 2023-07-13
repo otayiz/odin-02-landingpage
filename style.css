@@ -118,3 +118,15 @@ nav li {
     display: flex;
     justify-content: space-between;
 }
+
+.cta > button {
+    height: 3em;
+    align-self: center;
+    padding: 0 2em;
+    background: #3882F6;
+    color:#F9FAF8;
+    border: 4px solid #F9FAF8;
+    border-radius: 1em;
+    font-size: 18px;
+    font-weight: bold;
+}
