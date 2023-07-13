@@ -92,7 +92,7 @@ nav li {
 
 .quote {
     background: #e5e7eb;
-    padding: 0 200px;
+    padding: 50px 200px;
 }
 
 .quote p {
@@ -101,3 +101,10 @@ nav li {
     font-weight: light;
     color: #1F2937;
 }
+
+.quote > .source {
+    font-size: 24px;
+    text-align: right;
+    font-weight: bold;
+    font-style: normal;
+} 
