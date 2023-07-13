@@ -89,3 +89,8 @@ nav li {
     border: 2px solid blue;
     border-radius: .5em;
 }
+
+.quote {
+    background: #e5e7eb;
+    padding: 0 200px;
+}
