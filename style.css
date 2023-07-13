@@ -46,3 +46,13 @@ nav li {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.herotext button {
+    background: #3882F6;
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8;
+    border-radius: .5em;
+    border: 0;
+    padding: .5em;
+}
