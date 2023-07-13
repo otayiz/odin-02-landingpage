@@ -75,4 +75,17 @@ nav li {
 .cards {
     display: flex;
     padding: 0 200px;
+    justify-content: space-between;
+}
+
+.card {
+    width: 150px;
+    text-align: center;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid blue;
+    border-radius: .5em;
 }
